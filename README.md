@@ -6,14 +6,46 @@ The purpose of this analysis is to provide the school board with key data metric
 ## Results
 ### District Summary
 District Summary:
+
 ![District Summary](Images/District_Summary.PNG)
 
 Adjusted District Summary:
+
 ![Adjusted District Summary](Images/Mod_District_Summary.PNG)
 
-### District Summary
+### School Summary
 District Summary:
-![District Summary](Images/District_Summary.PNG)
 
-Adjusted District Summary:
-![Adjusted District Summary](Images/Mod_District_Summary.PNG)
+![School Summary](Images/School_Summary_Top5.PNG)
+
+Adjusted School Summary:
+
+![Adjusted School Summary](Images/Mod_School_Summary_Top5.PNG)
+
+### Additional Metrics
+
+Scores by Spending:
+
+![Scores by Spending](Images/Scores_by_Spending.PNG)
+
+Adjusted Scores by Spending:
+
+![Adjusted Scores by Spending](Images/Mod_Scores_by_Spending.PNG)
+
+Scores by Size:
+
+![Scores by Size](Images/Scores_by_Size.PNG)
+
+Adjusted Scores by Size:
+
+![Adjusted Scores by Size](Images/Mod_Scores_by_Size.PNG)
+
+Scores by School Type:
+
+![Scores by Type](Images/Scores_by_Type.PNG)
+
+Adjusted Scores by School Type:
+
+![Adjusted Scores by Type](Images/Mod_Scores_by_Type.PNG)
+
+## Summary
